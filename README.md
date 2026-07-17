@@ -63,5 +63,5 @@ voice-home-automation/
 Built by Bhoomika Sathish Rao as MSc Final Thesis at Nottingham Trent University.
 
 📧 bhoomikasrao2k@gmail.com
-🔗 LinkedIn
-🗂️ Full Portfolio
+🔗 LinkedIn 
+🗂️ Full Portfolio - (https://bhoomika-rao2k.github.io/)
